@@ -1,0 +1,15 @@
+{
+  "navigation": {
+    "features": "Features",
+    "documentation": "Documentation",
+    "openDashboard": "Open Dashboard",
+    "login": "Login",
+    "donate": "Donate",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "twitch": "Twitch"
+  },
+  "footer": {
+    "copyright": "&copy; Aiden Wallis {{year}}. All rights reserved. Not affiliated with Twitch."
+  }
+}
