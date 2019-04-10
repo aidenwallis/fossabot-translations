@@ -1,6 +1,8 @@
 # Fossabot Translations
 
-The resource hub for all translations on Fossabot! All translations are stored in JSON files, we host these simply on Github Pages and are always open to more translation PRs to aid the effort in translating Fossabot for everyone!
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e3d4b91-9f8c-4a13-9ef9-0073739ea685/deploy-status)](https://app.netlify.com/sites/fossabot-translations/deploys)
+
+The resource hub for all translations on Fossabot! All translations are stored in JSON files, we host these simply on Netlify and are always open to more translation PRs to aid the effort in translating Fossabot for everyone!
 
 Languages are broken down into their own respectable folders, categorized by their [ISO 639-1 codes](https://ewikipedia.org/wiki/List_of_ISO_639-1_codes), for example, all English translations are available under `en`.
 
