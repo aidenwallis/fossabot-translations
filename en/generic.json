@@ -15,6 +15,6 @@
     "twitch": "Twitch"
   },
   "footer": {
-    "copyright": "&copy; Aiden Wallis {{year}}. All rights reserved. Not affiliated with Twitch."
+    "copyright": "© Aiden Wallis {{year}}. All rights reserved. Not affiliated with Twitch."
   }
 }
