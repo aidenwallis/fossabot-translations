@@ -1,0 +1,30 @@
+{
+  "title": "Zuverlässige, fortschrittliche Höchstleistungsmoderation - so geht's richtig.",
+  "tagline": "Fossabot besitzt alle Werkzeuge die du dir wünschen kannst, um die sichere, angenehme und einladende Community zu bauen, die du dir schon immer gewünscht hast. Von der Community, für die Community.",
+  "trustedStreamers": "Auf Fossabot vertrauen viele der größten und einflussreichsten Streamer auf Twitch.",
+  "streamerLive": "Streamer is currently live",
+  "regularExpressions": {
+    "title": "Reguläre Ausdrücke",
+    "caption": "Fossabot unterstützt Reguläre Ausdrücke für besonders effiziente und flexible Moderation."
+  },
+  "spamFilters": {
+    "title": "Fortschrittliche Spam Filter",
+    "caption": "Von endlosen Wiederholungen, Spam, GROSSBUCHSTABEN bis hin zu to mehrzeiligen Nachrichten und sogar Malware Links, wir haben alles im Griff."
+  },
+  "designatedAccess": {
+    "title": "Zugangskontrolle",
+    "caption": "Hab die volle Kontrolle darüber, wer auf was auf deinem Kanal zugreifen kann. Erstelle benutzerdefinierte Rollen und gib präzise Rechte."
+  },
+  "cloudHosted": {
+    "title": "Lebt in der Cloud",
+    "caption": "Wir schaffen die ganze Arbeit für dich - kein Ärger mit Servern und Backups, wir betreiben dies für dich völlig kostenlos in der Cloud."
+  },
+  "customizable": {
+    "title": "100% Anpassbar",
+    "caption": "Genieße den Luxus, jeden Aspekt von Fossabot nach belieben zu verändern, um alles einzurichten, genau wie du es willst."
+  },
+  "free": {
+    "title": "100% Kostenlos. Kein Kleingedrucktes.",
+    "caption": "Fossabot ist 100% kostenlos. Wir haben nicht das Ziel Profit zu ziehen, und stellen keine Bezahlhürden auf. Wer uns trotzdem unterstützen mag, für Spenden sind wir immer dankbar."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "followers": "Followers",
+  "joinDiscord": {
+    "title": "Noch nicht ganz überzeugt? Fragen? Dann komm doch in unseren Discord!",
+    "cta": "Zu unserem Discord"
+  },
+  "navigation": {
+    "features": "Features",
+    "documentation": "Dokumentation",
+    "openDashboard": "Open Dashboard",
+    "login": "Login",
+    "donate": "Spenden",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "twitch": "Twitch"
+  },
+  "footer": {
+    "copyright": "© Aiden Wallis {{year}}. All rights reserved. Not affiliated with Twitch."
+  }
+}
