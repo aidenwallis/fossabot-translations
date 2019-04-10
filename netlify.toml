@@ -1,0 +1,5 @@
+# On 404 just send them back to fossabot.com
+[[redirects]]
+  from = "/*"
+  to = "https://fossabot.com"
+  status = 302

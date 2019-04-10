@@ -1,0 +1,15 @@
+{
+  "name": "fossabot-translations",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aidenwallis/fossabot-translations.git",
+  "author": "Aiden Wallis <aiden@aidenwallis.co.uk>",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "dependencies": {
+    "gulp": "^4.0.0",
+    "gulp-jsonminify": "^1.1.0"
+  }
+}
