@@ -12,7 +12,7 @@ In order to contribute, we ask that you start basing your new language translati
 
 ## Using the translations
 
-Feel free to use the translations! We simply serve the master branch from Github pages over at [translations.fossabot.com](https://translations.fossabot.com)! These are completely open source.
+Feel free to use the translations! We simply serve the a minified version of `src` over at [translations.fossabot.com](https://translations.fossabot.com). Note that any 404 requests will simply do a 302 redirect back to [fossabot.com](https://fossabot.com). These are completely open source.
 
 ## Social Media
 
