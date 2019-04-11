@@ -26,6 +26,7 @@
   "TIMER_ADD_COMMAND": "Added the command <code class=\"fossabot-code\">![0]</code> to the timer.",
   "TIMER_REMOVE_COMMAND": "Removed the command <code class=\"fossabot-code\">![0]</code> from the timer.",
   "TIMER_DELETE": "Deleted the timer.",
+  "TIMER_CHANGE_NAME": "Renamed timer from {0} to {1}.",
   "TIMER_CHANGE_INTERVAL": "Changed the timer interval from {0} mins to {1} mins.",
   "TIMER_CHANGE_MINLINES": "Changed the minimum lines from {0} to {1}.",
 
