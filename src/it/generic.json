@@ -1,0 +1,21 @@
+{
+  "followers": "Followers",
+  "open": "Apri",
+  "joinDiscord": {
+    "title": "Non sei ancora sicuro? Hai bisogno di aiuto? Vieni a parlare con noi su Discord.",
+    "cta": "Entra nel nostro Discord"
+  },
+  "navigation": {
+    "features": "Caratteristiche",
+    "documentation": "Documentazione",
+    "openDashboard": "Apri Pannello",
+    "login": "Login",
+    "donate": "Dona",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "twitch": "Twitch"
+  },
+  "footer": {
+    "copyright": "© Fossabot {{year}}. Tutti i diritti riservati. Non siamo affiliati con Twitch."
+  }
+}
