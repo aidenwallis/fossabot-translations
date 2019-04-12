@@ -1,0 +1,30 @@
+{
+  "title": "Moderazione della chat ad alte prestazioni, avanzata e affidabile.",
+  "tagline": "Fossabot ha tutte le caratteristiche necessarie per creare la comunità sicura, divertente e accogliente che hai sempre sognato. Costruito dalla comunità, per la comunità.",
+  "trustedStreamers": "Fossabot è utilizzato dagli streamer più influenti di Twitch.",
+  "streamerLive": "Questo streamer è attualmente in live",
+  "regularExpressions": {
+    "title": "Espressioni Regolari",
+    "caption": "Fossabot ha il completo supporto per le espressioni regolari, permettendoti di moderare sia efficientemente che flessibilmente la chat."
+  },
+  "spamFilters": {
+    "title": "Filtri Anti-Spam Avanzati",
+    "caption": "Dal maiuscolo, ripetizioni, simboli allo spam di molteplici messaggi e anche link malevoli. Ci pensiamo noi."
+  },
+  "designatedAccess": {
+    "title": "Accessi Controllati",
+    "caption": "Controlla chiaramente ciò che ogni utente può gestire nel tuo canale, crea ruoli personalizzati e assegna permessi precisi."
+  },
+  "cloudHosted": {
+    "title": "Server nel cloud",
+    "caption": "Facciamo tutto il lavoro complesso per te, non avrai bisogno di gestire server o backup, ci pensiamo noi per te gratuitamente."
+  },
+  "customizable": {
+    "title": "Estremamente personalizzabile",
+    "caption": "Goditi la lussuria di avere il controllo su ogni aspetto del bot nella chat, in modo da avere la tua configurazione perfetta."
+  },
+  "free": {
+    "title": "100% Gratuito. Nessuna truffa.",
+    "caption": "Fossabot è al 100% gratuito. Noi non esistiamo per creare un profitto, non chiediamo nessun tipo di pagamento. Puoi donare volontariamente, questo è tutto."
+  }
+}
