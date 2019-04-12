@@ -8,6 +8,8 @@ Languages are broken down into their own respectable folders, categorized by the
 
 ## Contributions
 
+**This repo is far from finalized yet, please hold off doing translations for now!** While we appreciate your time, we also don't want to waste it, the repo could drastically change over the next few weeks so may not be worth you translating anything till we come to a final setup that we're happy with.
+
 In order to contribute, we ask that you start basing your new language translation set off of the `en` language, and do it in an applicable branch name, something like `new-language-{COUNTRY_CODE}` or something like that, helps us to keep things organised. Whenever we add a new phrase into a language, it will always be in the `en` language first. We haven't thought of the best way to notify everyone to add the equivalent in their own languages, but are working on it.
 
 ## Using the translations
