@@ -18,7 +18,9 @@
     "minute": "Minute",
     "minutes": "Minutes",
     "cancel": "Cancel",
-    "allowedRoles": "Allowed roles"
+    "allowedRoles": "Allowed roles",
+    "availability": "Availability",
+    "mode": "Mode"
   },
   "modes": {
     "onlineOffline": "Online and offline",
