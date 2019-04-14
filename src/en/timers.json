@@ -9,4 +9,18 @@
   "delete": "Delete Timer",
   "deleteText": "Are you sure you want to delete timer",
   "save": "Save Timer",
+  "modal": {
+    "name": {
+      "helper": "Simple name for organizational purposes."
+    },
+    "interval": {
+      "helper": "How often the timer is posted in chat."
+    },
+    "minimumLines": {
+      "helper": "The minimum number of lines that must have passed before the next timer is sent."
+    },
+    "commands": {
+      "helper": "The commands that will be put into rotation for this timer."
+    }
+  }
 }
