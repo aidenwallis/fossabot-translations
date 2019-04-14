@@ -1,0 +1,15 @@
+{
+  "title": "Dashboard",
+  "description": "Welcome to the Dashboard. The Dashboard allows you to perform basic actions on Fossabot, such as joining/leaving the channel, granting extra authorizations, as well as view the audit log.",
+  "part": "Leave Channel",
+  "join": "Join Channel",
+  "auditLog": {
+    "title": "Audit Log"
+  },
+  "features": {
+    "title": "Twitch API Authorizations",
+    "description": "Fossabot does not request any other access to the rights of your Twitch account by default - and only stores data that is needed in order to identify who you are in the system. You are able to grant the bot access to more features in your account in order to allow the bot to assist in chat more, by allowing to do things such as the changing of games, titles, subage, running commercials etc.",
+    "authorize": "Authorize with Twitch",
+    "authorized": "Authorized with Twitch"
+  }
+}
