@@ -1,0 +1,12 @@
+{
+  "title": "Timers",
+  "description": "Timers are a method of allowing you to post messages in chat at certain intervals. Effective uses include advertising social/merch links, sub reminders etc. Timers will use commands regardless of their marked state (enabled/disabled) in the rotation.",
+  "search": "Search for a timer:",
+  "notFound": "No timers found.",
+  "empty": "You currently have no timers.",
+  "edit": "Edit Timer",
+  "create": "Create Timer",
+  "delete": "Delete Timer",
+  "deleteText": "Are you sure you want to delete timer",
+  "save": "Save Timer",
+}

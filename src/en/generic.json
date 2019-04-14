@@ -1,6 +1,28 @@
 {
   "followers": "Followers",
   "open": "Open",
+  "labels": {
+    "create": "Create",
+    "search": "Search:",
+    "searchNoColon": "Search",
+    "name": "Name",
+    "minimumChatLines": "Minimum chat lines",
+    "interval": "Interval",
+    "response": "Response",
+    "enabled": "Enabled",
+    "actions": "Actions",
+    "second": "Second",
+    "seconds": "Seconds",
+    "minute": "Minute",
+    "minutes": "Minutes",
+    "cancel": "Cancel",
+    "allowedRoles": "Allowed roles"
+  },
+  "modes": {
+    "onlineOffline": "Online and offline",
+    "onlineOnly": "Online only",
+    "offlineOnly": "Offline only"
+  },
   "joinDiscord": {
     "title": "Still unsure? Need any help? Come chat with us in Discord.",
     "cta": "Join our Discord"
@@ -14,6 +36,11 @@
     "twitter": "Twitter",
     "discord": "Discord",
     "twitch": "Twitch"
+  },
+  "login": {
+    "continue": "Please login to continue.",
+    "twitch": "Login with Twitch",
+    "working": "Working..."
   },
   "footer": {
     "copyright": "© Fossabot {{year}}. All rights reserved. Not affiliated with Twitch."
