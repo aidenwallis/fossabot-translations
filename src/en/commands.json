@@ -14,7 +14,7 @@
       "helper": "This must appear at the beginning of a message to trigger the command."
     },
     "response": {
-      "helper": "This is what you respond with in chat. You can use our <DOC_LINK_REPLACE>command variables</DOC_LINK_REPLACE> to make interesting responses."
+      "helper": "This is what you respond with in chat. You can use our %DOC_START%command variables%DOC_END% to make interesting responses."
     },
     "globalCooldown": {
       "helper": "How long all chatters must wait to trigger this command again."
