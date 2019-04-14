@@ -11,7 +11,9 @@
   "features": {
     "title": "Twitch API Authorizations",
     "description": "Fossabot does not request any other access to the rights of your Twitch account by default - and only stores data that is needed in order to identify who you are in the system. You are able to grant the bot access to more features in your account in order to allow the bot to assist in chat more, by allowing to do things such as the changing of games, titles, subage, running commercials etc.",
-    "authorize": "Authorize with Twitch",
-    "authorized": "Authorized with Twitch"
+    "authorizeCta": "Authorize with Twitch",
+    "authorizedCta": "Authorized with Twitch",
+    "authorized": "You have already authorized your Twitch account to allow these extra permissions.",
+    "authorize": "Please click the button below in order to grant the bot more access to your account."
   }
 }
