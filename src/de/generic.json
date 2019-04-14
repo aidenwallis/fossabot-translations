@@ -11,6 +11,8 @@
     "response": "Response",
     "enabled": "Enabled",
     "actions": "Actions",
+    "globalCooldown": "Global Cooldown",
+    "userCooldown": "User Cooldown",
     "second": "Second",
     "seconds": "Seconds",
     "minute": "Minute",
