@@ -49,5 +49,9 @@
   },
   "footer": {
     "copyright": "© Fossabot {{year}}. All rights reserved. Not affiliated with Twitch."
+  },
+  "manager": {
+    "title": "Manage Channels",
+    "buttonHeader": "Currently Managing"
   }
 }
