@@ -1,0 +1,7 @@
+{
+  "title": "Keywords",
+  "description": "Keywords allow Fossabot to respond in a certain manner based on the content of a message, and if conditions that you define are met.",
+  "search": "Search for a keyword:",
+  "notFound": "No keywords found.",
+  "empty": "You currently have no keywords."
+}

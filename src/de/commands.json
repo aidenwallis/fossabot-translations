@@ -1,0 +1,32 @@
+{
+  "title": "Commands",
+  "description": "You can use commands as an effective way for you to display information to your chatters, they can be triggered by typing the command name in chat.",
+  "search": "Search for a command:",
+  "notFound": "No commands found.",
+  "empty": "You currently have no commands.",
+  "edit": "Edit Command",
+  "create": "Create Command",
+  "delete": "Delete Command",
+  "deleteText": "Are you sure you want to delete command",
+  "save": "Save Command",
+  "modal": {
+    "name": {
+      "helper": "This must appear at the beginning of a message to trigger the command."
+    },
+    "response": {
+      "helper": "This is what you respond with in chat. You can use our <DOC_LINK_REPLACE>command variables</DOC_LINK_REPLACE> to make interesting responses."
+    },
+    "globalCooldown": {
+      "helper": "How long all chatters must wait to trigger this command again."
+    },
+    "userCooldown": {
+      "helper": "How long a single user must wait to trigger this command again."
+    },
+    "mode": {
+      "helper": "When your command is able to be triggered in chat."
+    },
+    "userlevels": {
+      "helper": "If a user has any of these roles, they are able to trigger the command."
+    }
+  }
+}
