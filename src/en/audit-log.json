@@ -79,9 +79,9 @@
   "CHANNEL_UNAUTHORIZE": "Removed extra authorizations from the channel. (Reason: {0})",
   "CHANNEL_PERMIT_USER": "Permitted {0} for [1] secs.",
 
-  "STREAMLABS_AUTH": "Authorised with Streamlabs.",
-  "STREAMLABS_REAUTH": "Re-authorised with Streamlabs.",
-  "STREAMLABS_UNAUTH": "Unauthorised from Streamlabs. (Reason: {0})",
+  "STREAMLABS_AUTH": "Authorized with Streamlabs.",
+  "STREAMLABS_REAUTH": "Re-authorized with Streamlabs.",
+  "STREAMLABS_UNAUTH": "Unauthorized from Streamlabs. (Reason: {0})",
   "STREAMLABS_ENABLE": "Enabled alerts.",
   "STREAMLABS_DISABLE": "Disabled alerts.",
   "STREAMLABS_CHANGE_TEMPLATE": "Changed template from {0} to {1}.",
