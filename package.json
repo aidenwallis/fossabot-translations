@@ -6,10 +6,12 @@
   "author": "Aiden Wallis <aiden@aidenwallis.co.uk>",
   "license": "MIT",
   "scripts": {
-    "build": "gulp build"
+    "build": "gulp build",
+    "start": "node server.js"
   },
   "dependencies": {
     "gulp": "^4.0.0",
-    "gulp-jsonminify": "^1.1.0"
+    "gulp-jsonminify": "^1.1.0",
+    "serve-handler": "^6.0.0"
   }
 }
