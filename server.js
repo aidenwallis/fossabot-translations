@@ -10,6 +10,16 @@ const http = require('http');
 const config = {
   public: "src",
   directoryListing: false,
+  headers: [{
+    source: "**/*.json",
+    headers: [{
+      key: "Access-Control-Allow-Origin",
+      value: "*",
+    }, {
+      key: "Access-Control-Allow-Headers",
+      value: "*",
+    }],
+  }],
 };
 
 const server = http.createServer((req, res) => handler(req, res, config));
