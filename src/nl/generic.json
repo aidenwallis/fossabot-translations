@@ -1,0 +1,21 @@
+{
+  "followers": "Volgers",
+  "open": "Open",
+  "joinDiscord": {
+    "title": "Nog steeds onzeker? Of hulp nodig? Kom met ons chatten in discord(Engels).",
+    "cta": "Join onze Discord"
+  },
+  "navigation": {
+    "features": "Mogelijkheden",
+    "documentation": "Documentatie",
+    "openDashboard": "Dashboard openen",
+    "login": "Login",
+    "donate": "Doneer",
+    "twitter": "Twitter",
+    "discord": "Discord",
+    "twitch": "Twitch"
+  },
+  "footer": {
+    "copyright": "© Fossabot {{year}}. Alle rechten voorbehouden. Niet verbonden met of aangesloten bij Twitch."
+  }
+}
