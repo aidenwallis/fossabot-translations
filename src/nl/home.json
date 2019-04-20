@@ -1,0 +1,30 @@
+{
+  "title": "Hoge prestaties, geavanceerd, betrouwbaar chat moderatie goed gedaan.",
+  "tagline": "Fossabot heeft alle functies die je nodig hebt om de veilige, leuke, gastvrije comunnity te creëren die je altijd al wilde hebben. Gebouwt door de community, voor de community.",
+  "trustedStreamers": "Fossabot wordt vertrouwd door de meest invloedrijke streamers op Twitch.",
+  "streamerLive": "Streamer is momenteel live",
+  "regularExpressions": {
+    "title": "Regular Expressions",
+    "caption": "Fossabot biedt volledige ondersteuning voor regular expressions, zodat u uw chat efficiënt kunt modereren met hoge flexibiliteit."
+  },
+  "spamFilters": {
+    "title": "Geavanceerde Spam Filters",
+    "caption": "Van caps, herhalingen, symbolen tot multi-bericht-spam en zelfs malware-links. Hebben we je gedekt."
+  },
+  "designatedAccess": {
+    "title": "Aangewezen toegang",
+    "caption": "Bepaal op een gedetailleerd niveau waar elke gebruiker toegang toe kan krijgen op uw dashboard, maak aangepaste rollen en geef precieze rechten."
+  },
+  "cloudHosted": {
+    "title": "Gehost in de cloud",
+    "caption": "Wij doen al het complexe harde werk voor jou, geen noodzaak om back-ups of servers te onderhouden, wij hosten dit volledig kosteloos in de cloud voor u."
+  },
+  "customizable": {
+    "title": "Zeer aanpasbaar",
+    "caption": "Geniet van de luxe om elk aspect van de bot in de chat te kunnen bedienen, zodat je de perfecte setup krijgt die je nodig hebt."
+  },
+  "free": {
+    "title": "100% gratis. Geen vangst.",
+    "caption": "Fossabot is 100% gratis. We bestaan niet voor het belang van winst, of met enige paymentwalls. We hebben 100% optionele donaties, dat is alles."
+  }
+}
